@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darshan-yadav
 - 👀 I’m interested in python and c++ projects
-- 🌱 I’m currently learning DevOps technlogies
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on tools to ease tasks
 - 📫 How to reach me @DarshanSays on twitter
 
